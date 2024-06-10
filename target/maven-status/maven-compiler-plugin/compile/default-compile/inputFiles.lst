@@ -1,0 +1,11 @@
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CanelonApplication.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CRUD\controller\ProductController.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CRUD\dto\ProductDto.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CRUD\entity\Product.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CRUD\repository\ProductRepository.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\CRUD\service\ProductService.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\global\dto\MessageDto.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\global\exceptions\AttributeException.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\global\exceptions\GlobalException.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\global\exceptions\ResourceNotFoundException.java
+C:\Users\iweal\IdeaProjects\canelon\src\main\java\com\iwealthbane\canelon\global\utils\Operations.java

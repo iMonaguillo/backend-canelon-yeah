@@ -1,0 +1,11 @@
+com\iwealthbane\canelon\global\exceptions\GlobalException.class
+com\iwealthbane\canelon\CRUD\entity\Product.class
+com\iwealthbane\canelon\CRUD\dto\ProductDto.class
+com\iwealthbane\canelon\global\exceptions\AttributeException.class
+com\iwealthbane\canelon\global\dto\MessageDto.class
+com\iwealthbane\canelon\CanelonApplication.class
+com\iwealthbane\canelon\CRUD\controller\ProductController.class
+com\iwealthbane\canelon\global\utils\Operations.class
+com\iwealthbane\canelon\CRUD\repository\ProductRepository.class
+com\iwealthbane\canelon\global\exceptions\ResourceNotFoundException.class
+com\iwealthbane\canelon\CRUD\service\ProductService.class
